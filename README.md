@@ -1,4 +1,4 @@
-# autoMail
+# Auto-Email-Plugin
 A jQuery plugin that autocomplete email address in input fields. 
 
 ## Demo
