@@ -1,10 +1,10 @@
 # autoMail
-邮箱自动完成jquery插件
+A jQuery plugin that autocomplete email address in input fields. 
 
-## 演示地址
+## Demo
 [http://shuzheng.github.io/autoMail/demo/](http://shuzheng.github.io/autoMail/demo/)
 
-## 使用方法
+## How to use
 ```js
 $('#email1,#email2,#email3,#email4,#email5,#email6').autoMail({
 	emails:['qq.com','163.com','126.com','sina.com','sohu.com','yahoo.cn','gmail.com','hotmail.com','live.cn']
