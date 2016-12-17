@@ -10,6 +10,9 @@ $('#email1,#email2,#email3,#email4,#email5,#email6').autoMail({
 	emails:['qq.com','163.com','126.com','sina.com','sohu.com','yahoo.cn','gmail.com','hotmail.com','live.cn']
 });  
 ```
+## 效果图
+
+![效果图](demo/autoMail-demo.png)
 
 ## License
 MIT
