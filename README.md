@@ -2,7 +2,7 @@
 A jQuery plugin that autocomplete email address in input fields. 
 
 ## Demo
-[http://shuzheng.github.io/autoMail/demo/](http://shuzheng.github.io/autoMail/demo/)
+[http://www.zhangshuzheng.cn/autoMail/demo/](http://www.zhangshuzheng.cn/autoMail/demo/)
 
 ## How to use
 ```js
